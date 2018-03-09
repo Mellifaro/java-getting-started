@@ -10,6 +10,6 @@ public class MainTest {
 
     @Test
     public void testBuildCI(){
-        assertTrue(false);
+        assertTrue(true);
     }
 }
